@@ -1,0 +1,190 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+
+#nav-bar {
+    background-image: linear-gradient(to right, #6A5380, #5B5280);
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.navbar {
+    background-image: linear-gradient(to right, #6A5380, #5B5280);
+    padding: 5 !important;
+}
+
+.navbar-brand img {
+    height: 60px;
+    padding-left: 30px;
+}
+
+.navbar-nav li {
+    padding: 0 10px;
+    text-align: left;
+    float: right;
+}
+
+.navbar-nav a {
+    color: #fff !important;
+    font-weight: 600;
+    text-align: left;
+    float: right;
+}
+
+#banner a {
+    color: white;
+}
+
+.git {
+    padding-left: 360px;
+}
+
+.fa-bars {
+    color: #ffff;
+    font-size: 40px !important;
+}
+
+#banner {
+    /* background-image: linear-gradient(to right, #6A5380, #5F5B80); */
+    padding-top: 0%;
+    padding: 60px;
+}
+
+.description {
+    padding-left: 250px;
+    padding-bottom: 30px;
+    color: #ffff;
+}
+
+.container {
+    padding: 20px 40px 30px;
+    display: flex;
+    background-image: url(../images/assets/apartments.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+#personal_photo {
+    border: 5px solid white;
+    position: relative;
+    left: 150px;
+}
+
+h1 {
+    padding-left: 270px;
+    padding-top: 90px;
+    color: #5B5280;
+}
+
+.page-footer {
+    padding: 15px;
+    position: absolute;
+    width: 100%;
+    background-color: #5B5280;
+    color: white;
+}
+
+.footer {
+    position: absolute;
+    width: 100%;
+    background-color: #5B5280;
+    color: white;
+    margin-bottom: 0;
+}
+
+.container-fluid {
+    background-image: url(../../assets/apartments.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+.email a {
+    color: white;
+}
+
+p {
+    text-align: center;
+    padding-bottom: 110px;
+    color: white;
+}
+
+h6 {
+    color: #5B5280;
+    padding-bottom: 50px;
+}
+
+.copyright {
+    color: white;
+}
+
+.card-body {
+    color: #ffff;
+}
+
+.card-title,
+.card-header,
+.text-muted {
+    color: black;
+}
+
+.card-body {
+    min-height: 300px;
+    min-width: 300px;
+    margin-right: 5px;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+.card-text {
+    color: black;
+}
+
+h3,
+h2 {
+    color: #5B5280;
+}
+
+.time-stamp {
+    color: #5F5B80;
+}
+
+.banner_abt {
+    background-image: url(../../images/apartments.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+h4 {
+    color: #5F5B80;
+}
+
+
+/* .carousel-item,
+.carousel-inner,
+.carousel-inner img {
+    height: 30%;
+    width: 100%;
+}
+
+.carousel-item {
+    text-align: center;
+} */
+
+.listing-map1 {
+    height: 30%;
+    width: 100%;
+}
+
+.about-us {
+    color: #5F5B80;
+}

@@ -1,0 +1,27 @@
+.navbar-wrapper {
+    padding: 5px;
+    text-align: center;
+}
+
+.navbar-inverse {
+    padding: 5px;
+    text-align: center;
+}
+
+.nav navbar-nav navbar-right active {
+    padding: 5px;
+    text-align: center;
+}
+
+.tg-baqh {
+    width: 400px;
+    height: 200px;
+}
+
+img {
+    width: 290px;
+    height: 390px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
