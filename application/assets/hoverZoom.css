@@ -1,0 +1,9 @@
+.zoom {
+    padding: 0;
+    background-color: green;
+    transition: transform .1s;
+}
+
+.zoom:hover {
+    transform: scale(1.05);
+}
